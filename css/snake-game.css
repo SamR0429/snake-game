@@ -1,0 +1,14 @@
+/* Write CSS Here */
+body {
+    text-align: center;
+}
+.geeks {
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+
+h1{
+    font-family: 'Handjet', 'sans-serif';
+    font-size: 4rem;
+}
